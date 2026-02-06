@@ -1,4 +1,4 @@
-
+import Menu from './Menu'
 import './App.css'
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      
+      <Menu />
     </>
   )
 }
