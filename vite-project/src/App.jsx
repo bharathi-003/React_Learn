@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Course name="HTML" price="$100" image={HTML} rating={8} show={true}/>
-       <Course name="CSS" price= "$200" image={CSS} rating={8.5}/>
+       <Course name="CSS" price= "$200" image={CSS} rating={8.5} show={true}/>
         <Course name="JAVASCRIPT" price="$500" rating={9.0}image={JAVASCRIPT} show={true}/>
     </>
   )
